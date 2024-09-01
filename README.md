@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ou-sama1&label=Profile%20views&color=0e75b6&style=flat" alt="ou-sama1" /> </p>
 
 - 📫 How to reach me **oussama.el.bachiri0@gmail.com**
+- 👤 My portfolio https://oussamaelbachiri.me/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-el-bachiri) 
